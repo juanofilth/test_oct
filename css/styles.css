@@ -1,0 +1,36 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(30, 200, 200);
+    margin: 30px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: #333333;
+}
+
+p {
+    font-size: 16px;
+}
+
+img {
+    width: 300px;
+}
+
+ 
+
+a:hover {
+    color: rgb(85, 255, 0);
+}
+
+ol {
+    list-style-type:lower-alpha;
+}
+
+ul {
+    
+
+}
